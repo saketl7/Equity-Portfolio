@@ -1,1 +1,1 @@
-# Equity-Portfolio-
+# Equity Portfolio Construction (Quantitive Technique)
